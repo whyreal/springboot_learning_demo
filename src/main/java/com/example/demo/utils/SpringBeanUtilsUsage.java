@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import lombok.var;
 
 /**
- * SpringUtils
+ * 介绍 org.springframework.beans.BeanUtils 的使用
  */
 public class SpringBeanUtilsUsage {
 

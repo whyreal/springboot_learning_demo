@@ -3,7 +3,7 @@ package com.example.demo.utils;
 import org.springframework.util.StringUtils;
 
 /**
- * SpringStringUtilsUsage
+ * 介绍 org.springframework.util.StringUtils 的使用
  */
 public class SpringStringUtilsUsage {
 

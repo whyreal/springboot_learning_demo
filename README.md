@@ -19,4 +19,4 @@ spring 官方提供了一个[网站](https://start.spring.io)，专门用于spri
 - jpa, spring data & hibernate
 - lombok, 减少模版代码
 - devtools， springboot 开发工具
-- validationg
+- validating
